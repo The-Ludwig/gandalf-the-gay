@@ -2,7 +2,7 @@
 
 After I recently learned that there is a '.gay' TLD, 
 me and a friend imagined some puns in the form 'something.gay'. 
-Of couse [ha.gay](https://ha.gay) was already taken, but [gandalf-the.gay](https://gandalf-the.gay)
+Of couse [ha.gay](http://ha.gay) was already taken, but [gandalf-the.gay](https://gandalf-the.gay)
 was not! 
 
 So here we are.
