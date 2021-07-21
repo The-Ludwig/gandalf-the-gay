@@ -1,8 +1,8 @@
-# [Gandalf The Gay](gandalf-the.gay)
+# [Gandalf The Gay](https://gandalf-the.gay)
 
 After I recently learned that there is a '.gay' TLD, 
 me and a friend imagined some puns in the form 'something.gay'. 
-Of couse [ha.gay](ha.gay) was already taken, but [gandalf-the.gay](gandalf-the.gay)
+Of couse [ha.gay](https://ha.gay) was already taken, but [gandalf-the.gay](https://gandalf-the.gay)
 was not! 
 
 So here we are.
