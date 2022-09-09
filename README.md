@@ -1,4 +1,8 @@
-# [Gandalf The Gay](https://gandalf-the.gay)
+### Note
+
+I do not own [gandalf-the.gay] anymore, but you can still visit the website [here](https://the-ludwig.github.io/gandalf-the-gay/).
+
+# [Gandalf The Gay](https://the-ludwig.github.io/gandalf-the-gay/)
 
 After I recently learned that there is a '.gay' TLD, 
 me and a friend imagined some puns in the form 'something.gay'. 
